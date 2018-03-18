@@ -1,0 +1,9 @@
+C:\Users\windows7\Desktop\Practice_C#\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll.config
+C:\Users\windows7\Desktop\Practice_C#\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll
+C:\Users\windows7\Desktop\Practice_C#\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.pdb
+C:\Users\windows7\Desktop\Practice_C#\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\windows7\Desktop\Practice_C#\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\windows7\Desktop\Practice_C#\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Desktop\Practice_C#\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\windows7\Desktop\Practice_C#\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.dll
+C:\Users\windows7\Desktop\Practice_C#\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.pdb
